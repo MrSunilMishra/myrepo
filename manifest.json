@@ -1,0 +1,20 @@
+{
+  "name": "Plenvok Store",
+  "short_name": "Plenvok",
+  "start_url": "https://plenvok.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2196f3",
+  "icons": [
+    {
+      "src": "https://cashfreelogo.cashfree.com/2501e35f8e1547b7d432e156daaf861cdb82abe490f204d17d3a2dbd2d8a60ba",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cashfreelogo.cashfree.com/2501e35f8e1547b7d432e156daaf861cdb82abe490f204d17d3a2dbd2d8a60ba",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
